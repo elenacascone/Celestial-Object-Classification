@@ -70,10 +70,10 @@ Il **Random Forest** (100 alberi) è il modello con le performance migliori in a
 ## ▶️ Come eseguire il progetto
 
 ```bash
-git clone https://github.com/elenacascone/<nome-repo>.git
-cd <nome-repo>
+git clone https://github.com/elenacascone/<Celestial-Object-Classification>.git
+cd <Celestial-Object-Classification>
 pip install -r requirements.txt
-jupyter notebook notebook/SDSS_classification.ipynb
+jupyter notebook notebook ITA/SDSS_classification.ipynb
 ```
 
 ## 👤 Autore
