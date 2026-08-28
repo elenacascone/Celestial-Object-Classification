@@ -57,12 +57,12 @@ Non-parametric bootstrap (B = 1,000 iterations) on the Multinomial Logistic Regr
 ## 📂 Repository Structure
 
 ```
-├── notebook/
-│   └── SDSS_classification.ipynb
+├── notebook ENG/
+│   └── SDSS_classification ENG.ipynb
+│   └── PDF report/
+│       └── SDSS_classification ENG.pdf
 ├── data/
-│   └── (SDSS DR14 dataset — see Dataset section)
-├── images/
-│   └── (exported plots for the README)
+│   └── (dataset SDSS DR14 — see Dataset)
 ├── requirements.txt
 └── README.md
 ```
