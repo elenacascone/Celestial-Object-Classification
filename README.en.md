@@ -70,8 +70,8 @@ Non-parametric bootstrap (B = 1,000 iterations) on the Multinomial Logistic Regr
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/elenacascone/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/elenacascone/<Celestial-Object-Classification>.git
+cd <Celestial-Object-Classification>
 pip install -r requirements.txt
 jupyter notebook notebook/SDSS_classification.ipynb
 ```
