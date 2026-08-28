@@ -57,12 +57,12 @@ Il **Random Forest** (100 alberi) è il modello con le performance migliori in a
 ## 📂 Struttura del repository
 
 ```
-├── notebook/
-│   └── SDSS_classification.ipynb
+├── notebook ITA/
+│   └── SDSS_classification ITA.ipynb
+│   └── PDF report/
+│       └── SDSS_classification ITA.pdf
 ├── data/
 │   └── (dataset SDSS DR14 — vedi sezione Dataset)
-├── images/
-│   └── (grafici esportati per il README)
 ├── requirements.txt
 └── README.md
 ```
